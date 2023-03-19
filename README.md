@@ -1,3 +1,5 @@
+WEB INTERFACE *AMANTES DE LAS GUITARRAS*
+
 Siempre he sentido el deber de traer un poco de mi en alguno de mis proyectos. En esta ocasión, una interfaz web limpia y sobria como posible base de un ecommerce o web de afiliacion. 
 El proyecto esta desarrollado con HTML, CSS y Javascript y dos librerias, conectadas por CDN, que son Bootstrap Icons y GSAP 3.0 para el manejo de animaciones.
 
